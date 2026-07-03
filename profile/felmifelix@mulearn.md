@@ -56,4 +56,7 @@ Long-term
 I aspire to become a skilled software engineer and technology leader who builds innovative solutions that create real-world impact. μFIFA will help me enhance my technical expertise, collaboration abilities, and professional network.
 
 Profile Card
+<img width="998" height="500" alt="WhatsApp Image 2026-07-03 at 19 05 20" src="https://github.com/user-attachments/assets/ba5ae82c-ac18-45f3-bd91-b0646104e9bb" />
+
+
 
