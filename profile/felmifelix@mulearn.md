@@ -1,9 +1,8 @@
-Ganga V (Computer Science Student)
+Felmi Felix (Computer Science Student)
 Squad Domain: Maker | FIFA Nation: Argentina
 About Me
-I am Ganga V, a Computer Science Engineering student passionate about technology, innovation, and building impactful solutions. I enjoy exploring software development, automation, and community-driven initiatives. I actively participate in technical communities, workshops, and internships that help me improve my skills and collaborate with like-minded people.
+I am felmi, a Computer Science Engineering student passionate about technology, innovation, and building impactful solutions. I enjoy exploring software development, automation, and community-driven initiatives. I actively participate in technical communities, workshops, and internships that help me improve my skills and collaborate with like-minded people.
 
-Currently, I am serving as a Project Coordinator Intern at μLearn Foundation, where I work on improving internal coordination systems, automations, and community processes. I have built several projects using technologies like React, Java, HTML, CSS, JavaScript, and MySQL, including applications such as a YouTube Clone, Budget Tracker, Weather App, and Student Result Management System.
 
 Through μFIFA, I want to challenge myself, collaborate with talented peers, improve my technical and leadership skills, and build meaningful proof of work while contributing to the community.
 
@@ -35,29 +34,14 @@ By the end of μFIFA, I want to build impactful projects, strengthen my portfoli
 History of Open Source and Collaborative Contributions
 I have worked on multiple academic and personal projects and actively contribute to collaborative initiatives through μLearn. Some of my projects include a YouTube Clone using React, a Budgeting Application, Weather App, Student Result Management System, and Personal Portfolio Website. I plan to open-source more of my projects on GitHub and contribute to community-driven repositories.
 
-History of Community Engagement
-I am an active member of the μLearn community and currently serve as a Project Coordinator Intern. I have participated in workshops, hackathons, tech events, and volunteered in events such as Asthra. I regularly engage with peers through technical discussions and collaborative projects.
+dI am an active member of the μLearn community and currently serve as a Project Coordinator Intern. I have participated in workshops, hackathons, tech events, and volunteered in events such as Asthra. I regularly engage with peers through technical discussions and collaborative projects.
 
 Domain Profiles
-GitHub: https://github.com/ganga8089
-LinkedIn: https://www.linkedin.com/in/ganga-v-
-μLearn Profile: gangav@mulearn
+GitHub: https://github.com/felmifelix-source
+LinkedIn: https://www.linkedin.com/in/felmi-felix-54645037a
+μLearn Profile: felmifelix@mulearn
 Tools, Workflows & Automations
 I regularly use tools such as ChatGPT, GitHub, VS Code, React, MySQL, Notion, Airtable, Google Workspace, Git, Netlify, and Figma. I am also exploring automation platforms and workflow tools to improve productivity and collaboration.
-
-Public Portfolio & Recognition
-I have deployed projects including portfolio websites and web applications using platforms like Netlify and Wix. I have also been recognized through internships, volunteer activities, and participation in various technical events and workshops.
-
-Education and Proof of Work
-Degree: B.Tech in Computer Science Engineering
-Institution: St Joseph's College of Engineering and technology
-Relevant Skills: React, Java, JavaScript, HTML, CSS, MySQL, Git, Automation Tools
-GitHub: https://github.com/ganga8089
-
-LinkedIn: https://www.linkedin.com/in/ganga-v-
-
-History of Leadership
-I currently serve as a Project Coordinator Intern at μLearn Foundation, where I coordinate projects, streamline communication processes, and contribute to improving community workflows. I have also taken initiative in organizing and supporting technical events and collaborative activities.
 
 Networking
 I enjoy connecting with people from different domains through μLearn, workshops, internships, and technical events. During μFIFA, I hope to collaborate with developers, designers, and makers to create impactful projects and learn from diverse perspectives.
@@ -72,3 +56,4 @@ Long-term
 I aspire to become a skilled software engineer and technology leader who builds innovative solutions that create real-world impact. μFIFA will help me enhance my technical expertise, collaboration abilities, and professional network.
 
 Profile Card
+
